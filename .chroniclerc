@@ -163,3 +163,5 @@ date-archive-path = 1
 # ping-server-2 = http://example.net/rpc
 # ping-server-N = http://.....
 #
+
+no-cache = 1
