@@ -1,0 +1,11 @@
+#!/bin/sh
+
+host="$1"
+local="$2"
+remote="$3"
+/usr/bin/sftp $host <<EOF
+mkdir $remote
+mkdir $remote/archive
+mkdir $remote/tags
+put -r $local/* $remote
+EOF
