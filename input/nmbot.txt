@@ -11,5 +11,5 @@ While the bot is running, there are still a few more things on its TODO list. Fi
 [3]: https://nm.debian.org/public/stats/latest?days=30
 [4]: https://nm.debian.org/public/stats/latest?days=30&json=true
 [5]: http://www.irssi.org/
-[6]: http://www.supybot.org/
+[6]: http://sourceforge.net/projects/supybot/
 [7]: https://github.com/nhandler/nmbot
